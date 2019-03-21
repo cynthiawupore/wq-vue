@@ -28,5 +28,5 @@ npm run lint
 
 ### 脚手架说明
 ```
-技术栈： vue + vue-router + less + axios + elementUI + moment
+技术栈： vue + vue-router + less + axios + elementUI + moment + v-occupy
 ```
